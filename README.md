@@ -1,5 +1,5 @@
-# YorkCSClassList
+# IFNMG_ClassList
 
-A sort of 'skill tree' of CS classes in York I made
+Grafo de disciplinas do IFNMG
 
-github page link: https://presidentkevvol.github.io/YorkCSClassList/
+Link: http://paulofilipe.com/IFNMG_CSClassList/
