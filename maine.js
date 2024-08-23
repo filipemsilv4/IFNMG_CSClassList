@@ -177,7 +177,7 @@ function focusBox(source) {
     //the title (full code and name)
     var course_code_full = source.getElementsByClassName("course-code-full")[0].innerHTML; 
     var course_name = source.getElementsByClassName("course-name")[0].innerHTML;
-    var course_title = course_code_full + "<br>" + course_name;
+    var course_title = course_name;
     document.getElementById("explain-topp").innerHTML = course_title;
     //the description
     var description_hidden = source.getElementsByClassName("course-description")[0].innerHTML;
